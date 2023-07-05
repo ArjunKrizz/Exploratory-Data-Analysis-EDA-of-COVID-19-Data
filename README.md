@@ -1,6 +1,9 @@
 
-Exploratory Data Analysis of COVID-19 Dataset
-This repository contains an analysis of the COVID-19 dataset, aiming to provide insights into the pandemic. Here are the objectives and tasks covered:
+# Exploratory Data Analysis of COVID-19 Dataset
+
+This repository contains an analysis of the COVID-19 dataset, aiming to provide insights into the pandemic. 
+
+Here are the objectives and tasks covered:
 
 1 - Load required libraries: Import necessary libraries for data analysis and visualization.
 
