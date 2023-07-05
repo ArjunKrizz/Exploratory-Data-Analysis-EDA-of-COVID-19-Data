@@ -1,0 +1,1 @@
+Explore COVID-19 data through EDA: Gain insights into total cases, deaths, demographics, and more. Analyze trends, patterns, and impacts using interactive visualizations.
